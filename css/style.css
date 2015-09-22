@@ -948,9 +948,11 @@ margin-left: -30px;
 	}
     .cd-container-blog-clmn-21 {
 		width: 100%;
+        padding: 8px;
 	}
     .cd-container-blog-clmn-22 {
 		width: 100%;
+        padding: 8px;
 	}
     
 	.cd-container-blog-read-posts {
@@ -1584,6 +1586,9 @@ Blog Post Style
 Contact Page Style
 
 -------------------------------- */
+.mapp{
+    width: 100%
+}
 .cd-intro-contact {
   position: relative;
   background: url(http://static.tumblr.com/1ccbc9v/tBPncd7pp/cd-content-contact-bg_img.jpg) no-repeat center center;
